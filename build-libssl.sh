@@ -32,7 +32,7 @@ DEFAULTARCHS="x86_64 i386 arm64 armv7s armv7 tv_x86_64 tv_arm64"
 DEFAULTTARGETS="ios-sim-cross-x86_64 ios-sim-cross-i386 ios64-cross-arm64 ios-cross-armv7s ios-cross-armv7 tvos-sim-cross-x86_64 tvos64-cross-arm64"
 
 # Minimum iOS/tvOS SDK version to build for
-IOS_MIN_SDK_VERSION="7.0"
+IOS_MIN_SDK_VERSION="9.0"
 TVOS_MIN_SDK_VERSION="9.0"
 
 # Init optional env variables (use available variable or default to empty string)
